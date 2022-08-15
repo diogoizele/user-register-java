@@ -1,6 +1,6 @@
 # User Register API
 
-Check out challenge on [Twitter](https://twitter.com/zanfranceschi/status/1559000686913720320)
+Check out challenge on [dev.to](https://dev.to/zanfranceschi/desafio-validacoes-0102-4ln)
 
 > "Ei dev, É normal não termos a validação que esperamos dos outros. Mas pelo menos NÓS podemos s̶e̶r̶ fazer a validação de que precisamos, certo?! Claro que sim! Então pega a parte 01/02 desse desafio. 🤭"
 
