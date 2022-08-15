@@ -16,6 +16,6 @@ public class RegisterUserRequest {
     private String cpf;
     private String rg;
     private String role;
-    private String locale;
+    private String location;
     private String wage;
 }
